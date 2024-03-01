@@ -1,0 +1,8 @@
+# Environment directory
+env/
+# Generated Python bytecode files
+**/__pycache__/*
+lazyshop/db.sqlite3
+.DS_Store
+**/.DS_Store
+lazyshop/mainapp/migrations/
